@@ -1,9 +1,0 @@
-site = test
-compte = test
-mdp = HkX5IkZW6n
-site = test2
-compte = test2
-mdp = FLRiAcxSa7^1&^
-site = Google
-compte = Google@gmail.com
-mdp = mWklJEoejb
