@@ -1,4 +1,4 @@
-# Password_Randomizer_and_Saver
+# Password_Randomizer_and_Save
 I made a defi who concist to create something with a language i didn't know in two days, i use python. The password are saved on a text file but it's not encryped
 
 This is a project i made in 2 days without knowing anything in Python. 
